@@ -1,0 +1,7 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true
+  },
+  "keyapi":"AIzaSyAaEeH1ASZp7NevXjgBc-k7nl2jmFv9Ggw"
+}

@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "mapteste",
+    "slug": "mapteste",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Para-onde.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "width":"100%",
+      "image": "./assets/Para-onde.jpg",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Para-onde.jpg",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
